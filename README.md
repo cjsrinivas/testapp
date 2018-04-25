@@ -3,3 +3,4 @@ Getting more information, even some more
 and more information and then some more
 and there is more exciting stuff
 now that there is a shared library and a better Jenkinsfile
+Testing now for debug message
