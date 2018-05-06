@@ -5,4 +5,3 @@ and there is more exciting stuff
 now that there is a shared library and a better Jenkinsfile
 Testing now for debug message
 Atl rocks !!
-SIN ROcks !! Super !!
